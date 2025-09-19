@@ -1,2 +1,4 @@
-# projectx1
-3-in-One Debian, aaPanel, Portainer, and AI.
+# Project X1
+
+## Project X1:##
+Is a Debian Server with aaPanel, Portainer CE, and Local AI
